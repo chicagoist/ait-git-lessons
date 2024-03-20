@@ -1,1 +1,1 @@
-# ait-git-lessons
+# Основы Git
